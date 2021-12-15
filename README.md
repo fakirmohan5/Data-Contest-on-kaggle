@@ -1,4 +1,7 @@
 # Data-Contest-on-kaggle
+
+Link for the competition page : https://www.kaggle.com/c/prml-data-contest-jul-2021-rb-section
+
 LIBRARIES: We have disallowed some libraries that abstract away complexities of the contest. We wish for you to learn and gain intuition by working with basic methods already implemented in scipy, sklearn, numpy etc. to assemble working algorithms. 
 
 ALLOWED LIBS:  You can use 
